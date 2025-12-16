@@ -5,10 +5,9 @@
   🔭 Currently working on <b>Real Estate Management Platform</b> 🏡<br>
   🌱 Learning <b>Machine Learning | Data Analytics | Data Science</b> 📊✨<br>
   🎀 Fun Facts About Me:<br>
-  🌟 INTP personality – curious, logical, and always exploring new ideas 💡<br>
-  🐱 Crazy cat lover – they inspire my creativity and calm moments 😺<br>
-  🎨 Perfectionist with a love for aesthetics – code meets art ✨💖<br>
+  🌟 INTP personality – Perfectionist, curious, logical, and always exploring new ideas 💡<br>
   🌍 Lifelong learner – always trying to <b>learn everything & be everything</b> 📚🚀
+  🐱 Crazy cat lover – they inspire my creativity and calm moments 😺<br>
 </p>
 
 
