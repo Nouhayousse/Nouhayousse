@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nouhaila</h1>
-<h3 align="center">A passionate Software Engineer & data science Student from Morocco</h3>
+<h1 align="center">🌸 Hi there! I'm Nouhaila 👋</h1>
+<h3 align="center">💻 Passionate Software Engineer & Data Science Student from Morocco 💖</h3>
 
-- 🔭 I’m currently working on **Real Estate Management Platform**
-
-- 🌱 I’m currently learning **Machine Learning |Data analytics | Data science**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
+<p align="center">
+  🔭 Currently working on <b>Real Estate Management Platform</b> 🏡<br>
+  🌱 Learning <b>Machine Learning | Data Analytics | Data Science</b> 📊✨<br>
+  🎀 Fun Facts About Me:<br>
+  🌟 INTP personality – curious, logical, and always exploring new ideas 💡<br>
+  🐱 Crazy cat lover – they inspire my creativity and calm moments 😺<br>
+  🎨 Perfectionist with a love for aesthetics – code meets art ✨💖<br>
+  🌍 Lifelong learner – always trying to <b>learn everything & be everything</b> 📚🚀
 </p>
+
+
+
 
 
 
