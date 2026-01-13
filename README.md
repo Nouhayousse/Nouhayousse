@@ -147,6 +147,52 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nouhayousse&icon=0&color=5)](https://visitcount.itsvg.in)
 
+<!-- ====================== Featured Organization Project ====================== -->
+<h2 align="center">🚀 Featured Organization Project</h2>
+
+<table align="center">
+  <tr>
+    <td width="100%">
+      <h3>🏡 Real Estate Management System — Backend</h3>
+      <p>
+        <b>Organization:</b> Gestion-Immobilier<br>
+        <b>Role:</b> Owner & Backend Developer<br>
+        <b>Type:</b> Academic & Personal Team Project
+      </p>
+      <p>
+        <b>Description:</b><br>
+        Backend REST API developed with Spring Boot for a real estate management platform.
+        This repository focuses on business logic, secure APIs, file storage integration
+        using MinIO, and API documentation with Swagger.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        Spring Boot · REST API · PostgreSQL · MinIO · Swagger · Gradle · JWT
+      </p>
+      <p>
+        <b>Project Structure:</b><br>
+        • Backend (Spring Boot) — this repository<br>
+        • Frontend (Angular)<br>
+        • Mobile App (Flutter)
+      </p>
+      <p>
+        🔗 <a href="https://github.com/Gestion-Immobilier/Backend-gestion-immobilier" target="_blank">
+          View Backend Repository
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- <a href="https://github.com/Gestion-Immobilier/Backend-gestion-immobilier">
+  <img src="https://opengraph.githubassets.com/1/Gestion-Immobilier/Backend-gestion-immobilier" />
+</a>
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gestion-Immobilier&repo=Backend-gestion-immobilier&theme=dark" />
+</p>
+
+
 
 
 
