@@ -1,205 +1,229 @@
-<h1 align="center">🌸 Hi there! I'm Nouhaila 👋</h1>
-<h3 align="center">💻 Passionate Software Engineer & Data Science Student from Morocco 💖</h3>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+# Hello, I'm Nouhaila Youssefi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=440&lines=Software+Engineer+%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;INTP+Perfectionist+%F0%9F%8C%9F;Cat+Lover+%F0%9F%90%B1;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-  🔭 Currently working on <b>Real Estate Management Platform</b> 🏡<br>
-  🌱 Learning <b>Machine Learning | Data Analytics | Data Science</b> 📊✨<br>
-  🎀 Fun Facts About Me:<br>
-  🌟 INTP personality – Perfectionist, curious, logical, and always exploring new ideas 💡<br>
-  🌍 Lifelong learner – always trying to <b>learn everything & be everything</b> 📚🚀
-  🐱 Crazy cat lover – they inspire my creativity and calm moments 😺<br>
+  <a href="https://www.linkedin.com/in/nouhaila-youssefi-b346272b9/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nouhailayoussefi43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nouhayousse&style=for-the-badge&color=blueviolet" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🏡 Building Real Estate Management Platform                 ║
+║  📊 Exploring Machine Learning & Data Analytics              ║
+║  🌍 Based in Casablanca, Morocco                             ║
+║  😺 Cat lover | Lifelong learner | Curious explorer          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-
----
-<!-- ====================== My Dev Kit ====================== -->
-<h3 align="left">💻 My Dev Kit</h3>
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ====================== Data Science Kit ====================== -->
-<h3 align="left">📊 Data Science Kit</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- ====================== DevOps & Cloud Kit ====================== -->
-<h3 align="left">☁️ DevOps & Cloud Kit</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://min.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="minio" width="40" height="40"/>
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="jwt" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nouhayousse&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nouhayousse&theme=dark&hide_border=false&cache_seconds=60)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouhayousse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# 📊 Profile summary cards:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nouhayousse&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nouhayousse&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nouhayousse&theme=github_dark)
-
-# 📊 Contribution activity graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Nouhayousse&theme=github-dark)
-
-
----
-
-<h3>💖 Favorite Dev Quote</h3>
-
-<div style="border-radius:12px; padding:16px; background-color:#0d1117;">
-  <p style="font-size:16px;">
-    <em>
-      “Intelligence is the ability to avoid doing work, yet getting the work done.”
-    </em>
-  </p>
-  <p align="right">
-    — <strong>Linus Torvalds</strong>
-  </p>
 </div>
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nouhayousse&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## 💡 About Me
+
+<img align="right" alt="Coding Cat" width="400" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif">
+
+```typescript
+const nouhaila = {
+    location: "Rabat, Casablanca, Morocco 🇲🇦",
+    role: "Software Engineer & Data Science Student",
+    personality: "INTP - Analytical, Curious & Detail-Oriented",
+    currentFocus: [
+        "Building scalable backend systems",
+        "Exploring ML & data analytics",
+        "Creating elegant solutions to complex problems"
+    ],
+    philosophy: "Intelligence is avoiding work while getting work done",
+    interests: ["Cats 😺", "Continuous Learning 📚", "Innovation 💡"]
+};
+```
+
+<br clear="both">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nouhayousse&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- ====================== Featured Organization Project ====================== -->
-<h2 align="center">🚀 Featured Organization Project</h2>
+## 🚀 Featured Project
 
-<table align="center">
-  <tr>
-    <td width="100%">
-      <h3>🏡 Real Estate Management System — Backend</h3>
-      <p>
-        <b>Organization:</b> Gestion-Immobilier<br>
-        <b>Role:</b> Owner & Backend Developer<br>
-        <b>Type:</b> Academic & Personal Team Project
-      </p>
-      <p>
-        <b>Description:</b><br>
-        Backend REST API developed with Spring Boot for a real estate management platform.
-        This repository focuses on business logic, secure APIs, file storage integration
-        using MinIO, and API documentation with Swagger.
-      </p>
-      <p>
-        <b>Tech Stack:</b><br>
-        Spring Boot · REST API · PostgreSQL · MinIO · Swagger · Gradle · JWT
-      </p>
-      <p>
-        <b>Project Structure:</b><br>
-        • Backend (Spring Boot) — this repository<br>
-        • Frontend (Angular)<br>
-        • Mobile App (Flutter)
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Gestion-Immobilier/Backend-gestion-immobilier" target="_blank">
-          View Backend Repository
-        </a>
-      </p>
-    </td>
-  </tr>
+<div align="center">
+
+### 🏡 Real Estate Management Platform
+**Full-Stack Enterprise Solution**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Project Overview**
+- **Organization**: Gestion-Immobilier
+- **Role**: Owner & Backend Lead
+- **Type**: Academic & Team Project
+
+**💼 What I Built**
+- RESTful API with Spring Boot
+- Secure authentication (JWT)
+- File storage with MinIO
+- Complete API documentation
+- PostgreSQL database design
+
+</td>
+<td width="50%">
+
+**🛠️ Tech Stack**
+
+```yaml
+Backend:
+  - Spring Boot
+  - PostgreSQL
+  - JWT Security
+  - MinIO Storage
+  - Swagger/OpenAPI
+  - Gradle
+
+Frontend:
+  - Angular
+  - TypeScript
+
+Mobile:
+  - Flutter
+```
+
+</td>
+</tr>
 </table>
 
-<!-- <a href="https://github.com/Gestion-Immobilier/Backend-gestion-immobilier">
-  <img src="https://opengraph.githubassets.com/1/Gestion-Immobilier/Backend-gestion-immobilier" />
-</a>
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gestion-Immobilier&repo=Backend-gestion-immobilier&theme=dark" />
-</p>
+<div align="center">
 
+[![Backend Repo](https://img.shields.io/badge/View_Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gestion-Immobilier/Backend-gestion-immobilier)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gestion-Immobilier&repo=Backend-gestion-immobilier&theme=tokyonight&hide_border=true" />
 
+</div>
 
+---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhaila-youssefi-b346272b9/?trk=opento_sprofile_topcard)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nouhailayoussefi43@gmail.com) 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
+<br><br>
+
+### Backend & Web Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### DevOps & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nouhayousse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouhayousse&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nouhayousse&theme=tokyonight&hide_border=true)
+
+</div>
+
+<details>
+<summary>📈 More Stats</summary>
+<br>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nouhayousse&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nouhayousse&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nouhayousse&theme=tokyonight" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nouhayousse&theme=tokyo-night&hide_border=true)
+
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Nouhayousse&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+</details>
+
+---
+
+## 💭 Dev Philosophy
+
+<div align="center">
+
+> *"Intelligence is the ability to avoid doing work, yet getting the work done."*
+> 
+> **— Linus Torvalds**
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 **Building**: Scalable real estate management platform
+- 🌱 **Learning**: Advanced ML algorithms & data analytics techniques
+- 👯 **Collaborating**: Open to interesting projects & opportunities
+- 💬 **Ask me about**: Spring Boot, Angular, Flutter, Data Science
+- 📫 **Reach me**: nouhailayoussefi43@gmail.com
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 🌟 "Always learning, always growing, always coding" 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="200" />
+
+Made with 💜 by Nouhaila Youssefi
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
