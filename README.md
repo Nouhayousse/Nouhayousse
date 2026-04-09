@@ -16,9 +16,8 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🏡 Building Real Estate Management Platform                 ║
-║  📊 Exploring Machine Learning & Data Analytics              ║
-║  🌍 Based in Casablanca, Morocco                             ║
+║  📊 Exploring System design & Microservice Architecture      ║
+║  🌍 Based in Rabat, Morocco                                  ║
 ║  😺 Cat lover | Lifelong learner | Curious explorer          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -206,10 +205,10 @@ Mobile:
 
 ## 🎯 Current Goals
 
-- 🔭 **Building**: Scalable real estate management platform
-- 🌱 **Learning**: Advanced ML algorithms & data analytics techniques
+- 🔭 **Exploring**: Microservices & System design
+- 🌱 **Learning**: ML algorithms & data analytics techniques
 - 👯 **Collaborating**: Open to interesting projects & opportunities
-- 💬 **Ask me about**: Spring Boot, Angular, Flutter, Data Science
+- 💬 **Ask me about**: Java, Spring Boot, Angular, Data Science
 - 📫 **Reach me**: nouhailayoussefi43@gmail.com
 
 ---
